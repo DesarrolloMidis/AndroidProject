@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AppMIDIS</string>
+
+    <!--General Strings-->
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+
+    <!--Acción Strings-->
+    <string name="buscar">Buscar</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="continuar">Continuar</string>
+    <string name="finalizar">Finalizar</string>
+
+
+    <!-- Menu item -->
+    <string name="action_settings">action_settings</string>
+
+    <!-- Login Activity -->
+    <string name="txtUsuarioPlaceHolder">Usuario</string>
+    <string name="txtContrasenaPlaceHolder">Contraseña</string>
+    <string name="btnIniciarSesion">Iniciar Sesión</string>
+    <string name="lblVersion">copyright© 2018 MIDIS</string>
+
+    <!-- HogarNew Activity -->
+    <string name="lbl_Fecha">Fecha:</string>
+    <string name="lbl_Direccion">Dirección:</string>
+    <string name="lbl_Latitud">Latitud:</string>
+    <string name="lbl_Longitud">Longitud:</string>
+    <string name="lbl_Satelites">N° Satelites:</string>
+    <string name="lbl_Foto">Foto:</string>
+    <string name="btn_TomarFoto">Tomar Foto</string>
+    <string name="btn_ObtenerUbicacion">Obtner Ubicación</string>
+
+    <!--Personal Activity-->
+    <string name="title_activity_persona_list">Persona List</string>
+
+
+    <!-- Export Activity -->
+    <string name="btn_exportar">Exportar</string>
+    <string name="txt_BuscarDireccion">Buscar Dirección</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
